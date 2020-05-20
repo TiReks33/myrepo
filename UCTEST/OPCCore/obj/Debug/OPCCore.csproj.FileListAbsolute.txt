@@ -1,0 +1,7 @@
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\bin\Debug\OPCCore.dll
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\bin\Debug\OPCCore.pdb
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\bin\Debug\Kepware.ClientAce.OpcClient.dll
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\bin\Debug\Kepware.ClientAce.OpcClient.xml
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\obj\Debug\OPCCore.dll
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\obj\Debug\OPCCore.pdb
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\OPCCore\obj\Debug\OPCCore.csprojResolveAssemblyReference.cache

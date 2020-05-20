@@ -1,0 +1,14 @@
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\UCTEST.exe.config
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\UCTEST.exe
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\UCTEST.pdb
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.exe
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.pdb
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.FormMain.resources
+c:\users\александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.UCOPCIndicator.resources
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\obj\Debug\UCTEST.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\OPCCore.dll
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\Kepware.ClientAce.OpcClient.dll
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\OPCCore.pdb
+C:\Users\Александр\documents\visual studio 2012\Projects\UCTEST\UCTEST\bin\Debug\Kepware.ClientAce.OpcClient.xml

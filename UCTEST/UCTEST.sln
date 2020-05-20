@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCTEST", "UCTEST\UCTEST.csproj", "{4063C0EA-654C-4D59-8467-E6413896FFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCCore", "OPCCore\OPCCore.csproj", "{FE7DA56C-F9B1-41F5-9989-0ED68C198DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4063C0EA-654C-4D59-8467-E6413896FFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4063C0EA-654C-4D59-8467-E6413896FFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4063C0EA-654C-4D59-8467-E6413896FFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4063C0EA-654C-4D59-8467-E6413896FFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7DA56C-F9B1-41F5-9989-0ED68C198DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7DA56C-F9B1-41F5-9989-0ED68C198DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7DA56C-F9B1-41F5-9989-0ED68C198DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7DA56C-F9B1-41F5-9989-0ED68C198DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
